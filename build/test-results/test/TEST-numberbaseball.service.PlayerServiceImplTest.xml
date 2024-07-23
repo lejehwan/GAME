@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="numberbaseball.service.PlayerServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-22T06:47:02" hostname="JEONGHWANLEE" time="0.045">
+  <properties/>
+  <testcase name="�꽑怨듭씠 1 �삉�뒗 2媛� �븘�땶 寃쎌슦 �떎�뙣" classname="numberbaseball.service.PlayerServiceImplTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
